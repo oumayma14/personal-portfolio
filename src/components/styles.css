@@ -1,0 +1,9 @@
+:root {
+    --background-color: #CBDCEB;
+    --particle-color: #133E87;
+  }
+  [data-theme="dark"]{
+    --particles-color: #CBDCEB !important ;
+    --background-color: #133E87 !important;
+  }
+    
