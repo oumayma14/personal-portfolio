@@ -1,6 +1,6 @@
 /* Default CSS */
 html {
-  scroll-behavior:auto;
+  scroll-behavior: smooth;
 }
 
 section {
